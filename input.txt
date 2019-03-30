@@ -1,0 +1,9 @@
+The use of language is deeply entrenched in human culture. 
+Therefore, in addition to its strictly communicative uses, language also has many social and cultural uses such as signifying group 
+identity, social stratification (social differentiation) as well social grooming and entertainment.
+Natural language processing (NLP) addresses the fundamental questions at the intersection of human languages and computer science.
+processing it for various needs. This empowers users to get insights into observed human phenomena.
+quality information from text and converting it to actionable knowledge. 
+information acquisition, social behavior analysis and decision making etc. 
+probabilistic methods that have revolutionized NLP in the past decade.
+

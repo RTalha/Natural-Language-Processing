@@ -1,0 +1,180 @@
+Natural Language 
+  Processing (NLP)
+
+                    Lecture 1: Introduction
+               Dr. Muhammad Taimoor Khan
+Language
+
+• Language is the development, acquisition, maintenance and use of 
+ complex systems of communication.
+
+• The prehistoric languages could only communicate the observations i.e., 
+ having physical existence in time and space
+
+• Over a period of time, the delicacy of languages allowed to have 
+ abstract concepts and theories
+
+• Just like anything else, language can also be used or abused, How?
+Natural (Human) Language
+
+• The method for human communication, either spoken or written. 
+ It consist of the use of words in a structured and conventional way.
+
+• It’s a system of communication that is used by a particular 
+ community. 
+• There are around 5000 to 7000 languages in the world (depending 
+ on the arbitrary distinction between languages and their dialects.
+
+Apart from spoken languages, there are sign languages, whistling, braille etc.
+• Natural language is processed differently as it passes through 
+ different parts of the human brain.
+• Humans acquire language through social interactions in early 
+ childhood and generally speak fluently by 3 years.
+
+• The use of language is deeply entrenched in human culture. 
+ Therefore, in addition to its strictly communicative uses, language 
+ also has many social and cultural uses such as signifying group 
+ identity, social stratification (social differentiation) as well social 
+ grooming and entertainment.
+Diversity of Natural Languages
+
+• The complex structure of natural languages afford a much wider 
+ range of expressions then any known system.
+
+• It empowers humans to acquire the ability of a theory of other 
+ minds and a shared intentionality.
+The structure of languages evolve and diversify over time to serve 
+specific communicative and social functions.
+
+• Synchronic: Study of the state of a language at any given point in 
+ history
+
+• Diachronic: Differences among the states of language over decades 
+ or centuries
+Language Family
+
+• The existing languages evolve and new languages are introduced.
+• New languages usually are influenced by the dominant existing 
+ languages.
+
+• A group of languages that descend from a common ancestor is 
+ known as a language family.
+
+Culturally rich languages like Persian and Arabic can be observed to have 
+footprints in many languages.
+Linguistics
+
+• Scientific or systematic study of language. Its science in the sense 
+ that it scientifically studies the rules, systems and principles of 
+ human language. 
+• There are two objectives of linguistics or the scientific study of 
+ language, that are;
+   • To establish a theory of language and describe language in the light of that 
+    theory.
+   • Examining all forms of language and seeking scientific understanding of the 
+    ways in which it is organized serve different needs and perform functions.
+CS458 Natural Language Processing
+
+Pre-Requisites:
+• Prior knowledge of a Programming Language, ideally Java or 
+ Python
+• Basic understanding of Probability and Statistics
+• Understanding of Algorithms and Data Structures
+Class Ethics
+
+Attendance:
+• The university requires at least 80% attendance. Be in time and 
+ watch your attendance to avoid end semester hassles. 
+
+Late Submission of Assignments:
+• Assignments after deadline will get 10% penalty after deadline for 
+ first 3 days and will not be marked after that. Assignments will 
+ have at least a week’s time. 
+Quizzes:
+• Quizzes will be announced a week before. There are no retake for 
+ quizzes. Accommodate your other plans accordingly.
+
+Project:
+• The course project would have groups of two students each. The ideas 
+ for projects would be discussed later in the course.
+
+Opportunists:
+• Keep track of your efforts and rewards. Please do not bother for favors 
+ to stay afloat.  
+Course Description
+
+Natural language processing (NLP) addresses the fundamental questions at 
+the intersection of human languages and computer science. It devises 
+techniques that would help understand the basic language structure and 
+processing it for various needs. This empowers users to get insights into 
+observed human phenomena. It is an interdisciplinary course that helps to 
+learn computers do useful things with human languages by mining high 
+quality information from text and converting it to actionable knowledge. It 
+may facilitate human life in different areas including business intelligence, 
+information acquisition, social behavior analysis and decision making etc. 
+The course introduces computational methods that can help linguistics 
+explain language phenomena, inducing automatic discovery of different 
+word senses and phrase structures. The course discusses statistical and 
+probabilistic methods that have revolutionized NLP in the past decade.
+Course Objectives
+
+
+The students should achieve the following objectives from studying this 
+course;
+• Build models that would process a natural language and learn about its 
+ structure
+• Perform lexical, syntactic and semantic analysis on textual data
+• Build models that would generate natural language
+• Build models that would identify and extract useful information for text
+• Have understanding of machine translation, comprehending natural 
+ language and pragmatics
+Textbooks
+
+• Speech and Language Processing, by Daniel Jurafsky and James H. 
+ Martin, 2nd Edition 2009.
+ 
+Reference Book(s):
+• Natural Language Processing with Java. Richard M. Reese, 
+ AshishSingh Bhatia, Packt publishing limited, 2015.
+Assessments
+
+Assessment      Quantity         Marks
+Assignments     4                10
+Quizzes         4                10
+Project         1                10
+Mid Exam        1                20
+Final Exam      1                50
+Course Outline
+
+• Introduction
+    Introduction to the course
+• Linguistics and NLP
+    Basics of language, linguistics and NLP
+• Regular Expressions
+    Regex (sequence of characters that define a pattern)
+• Edit Distance
+    Measuring similarity / dissimilarity among strings
+• Context Free Grammars
+    Set of recursive rules used to generate patterns of string
+• Non-probabilistic Parsing
+   Using rules to observe the syntactic structure of a language and to parse its 
+   sentences 
+• Probabilistic Parsing
+   Given statistical model of the syntactic structure of a language to parse 
+   sentences
+• Information Theory
+   Sequence of symbols to code and transmit information
+• Language Modeling
+   Probabilistic models for predicting next words/characters/sentences
+• Parts of Speech Tagging:
+    Identifying the different parts of speech in a sentence or using them to construct 
+    sentences
+• Markov Models:
+    Using Markov models to simplify the observations of probabilistic models
+• Lexical and Semantics:
+    Words with their meanings and concepts
+• Machine Translation:
+    Translation among natural languages through computers
+• Pragmatics:
+    Understanding the background of a speech and respond with an action
+Discussion!
