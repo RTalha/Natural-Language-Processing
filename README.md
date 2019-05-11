@@ -1,6 +1,7 @@
 # Natural-Language-Processing
 nlp-project
-
+SPOKY AUTHOR IDENTIFICATION 
+KAGGLE COMPITION
 
 As I scurried across the candlelit chamber, manuscripts in hand, I thought I'd made it. Nothing would be able to hurt me anymore. Little did I know there was one last fright lurking around the corner.
 
